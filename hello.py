@@ -46,3 +46,5 @@ def foo(s):
     return 10 / n
 
 foo('0')
+
+foo('1')
